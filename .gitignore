@@ -1,0 +1,4 @@
+config/.env
+config/*.swp
+storage/logs/*
+!storage/logs/.gitkeep
